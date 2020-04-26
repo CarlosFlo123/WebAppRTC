@@ -27,7 +27,7 @@ By doing a Real Time Communication (RTC) web application we save local memory ov
 
 ### Built With
 
-* Node .js modules made by `Priologic Software Inc.`
+* Node .js modules made by `Priologic Software Inc.` and reachable at: 
 
 
 <!-- GETTING STARTED -->
@@ -45,21 +45,21 @@ To get a local copy up and running follow these simple steps.
 ```sh
 git clone https://github.com/CarlosFlo123/WebAppRTC.git webRTC
 ```
-2. Once in "\webRTC\" 
+2. Once in `\webRTC\` 
 ```sh
 npm init
 ```
 ```sh
 npm install
 ```
-3. Inside "webRTC\node_modules\"
+3. Inside `webRTC\node_modules\`
 ```sh
 npm init
 ```
 ```sh
 npm install
 ```
-4. Back at ".\"
+4. Back at `\webRTC\`
 ```sh
 node server.js
 ```
@@ -107,7 +107,7 @@ POSSIBILITY OF SUCH DAMAGE.
 <!-- CONTACT -->
 ## Contact
 
-Carlos Flores Valero  - [@twitter_handle](https://twitter.com/carlosflova) - carlosfvsoft@gmail.com
+Carlos Flores Valero  - [@carlosflova](https://twitter.com/carlosflova) - carlosfvsoft@gmail.com
 
 Project Link: [https://github.com/CarlosFlo123/WebAppRTC.git](https://github.com/CarlosFlo123/WebAppRTC.git)
 
