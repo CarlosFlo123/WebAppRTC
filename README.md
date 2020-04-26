@@ -22,8 +22,9 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![npm version](https://img.shields.io/npm/v/open-easyrtc.svg?style=flat)](https://www.npmjs.com/package/open-easyrtc)
-[![Build Status](https://travis-ci.org/open-easyrtc/open-easyrtc.svg?branch=master)](https://travis-ci.org/open-easyrtc/open-easyrtc)
+
+[![npm version][npmversion-shield]][npmversion-url]
+[![Build Status][build-shield]][build-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -36,11 +37,8 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
@@ -50,13 +48,11 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 By doing a Real Time Communication (RTC) web application we save local memory over native applications and avoid installing add-ons but still getting quality of service. 
-**as long as the device runs a web browser you would be able to access right the way.**
+**As long as the device runs a web browser you would be able to access right the way.**
 
 ### Built With
 
-* [](Node .js modules)
-* [](easyRTC open source toolkit)
-
+* Node .js modules made by `Priologic Software Inc.`
 
 
 <!-- GETTING STARTED -->
@@ -66,52 +62,45 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-* Install [https://nodejs.org/en/]
-* npm
-```sh
-npm install
-```
+* Install Node.js [https://nodejs.org/en/]
 
 ### Installation
  
 1. Clone the repo
 ```sh
-git clone https://github.com/github_username/repo.git
+git clone https://github.com/CarlosFlo123/WebAppRTC.git
 ```
-2. Install NPM packages
+2. Once in the file.. 
+```sh
+npm init
+```
 ```sh
 npm install
 ```
-
-
-
+3. Inside ".\node_modules\"
+```sh
+npm init
+```
+```sh
+npm install
+```
+4. Back at ".\"
+```sh
+node server.js
+```
 <!-- USAGE EXAMPLES -->
 ## Usage
+
+* Video and/or Audio connections
+* Multi-party video chat
+* Text Messaging with or without Data Channels
+* Screen and tab sharing
+* File transfer
+* Client side video recording
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 
 
 <!-- LICENSE -->
@@ -146,19 +135,9 @@ POSSIBILITY OF SUCH DAMAGE.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Carlos Flores Valero  - [@twitter_handle](https://twitter.com/carlosflova) - carlosfvsoft@gmail.com
 
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
+Project Link: [https://github.com/CarlosFlo123/WebAppRTC.git](https://github.com/CarlosFlo123/WebAppRTC.git)
 
 
 
@@ -167,14 +146,12 @@ Project Link: [https://github.com/github_username/repo](https://github.com/githu
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[npmversion-shield]: https://img.shields.io/npm/v/open-easyrtc.svg?style=flat
+[npmversion-url]: https://www.npmjs.com/package/open-easyrtc
+[build-shield]: https://img.shields.io/npm/v/open-easyrtc.svg?style=flat
+[build-url]: https://travis-ci.org/open-easyrtc/open-easyrtc
+[linkedin-shield]: https://travis-ci.org/open-easyrtc/open-easyrtc.svg?branch=master
 [linkedin-url]: https://www.linkedin.com/in/carlos-flores-valero-44b912113/
 [product-screenshot]: images/demopic.png
