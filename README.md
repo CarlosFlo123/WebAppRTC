@@ -120,7 +120,7 @@ Project Link: [https://github.com/CarlosFlo123/WebAppRTC.git](https://github.com
 [npmversion-shield]: https://img.shields.io/npm/v/open-easyrtc.svg?style=flat
 [npmversion-url]: https://www.npmjs.com/package/open-easyrtc
 [build-shield]: https://travis-ci.org/open-easyrtc/open-easyrtc.svg?branch=master
-[build-url]: https://travis-ci.org/open-easyrtc/open-easyrtc
+[build-url]: http://easyrtc.com/docs/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/carlos-flores-valero-44b912113/
 [product-screenshot]: images/demopic.png
