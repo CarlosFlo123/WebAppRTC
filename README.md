@@ -22,10 +22,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![npm version](https://img.shields.io/npm/v/open-easyrtc.svg?style=flat)](https://www.npmjs.com/package/open-easyrtc)
+[![Build Status](https://travis-ci.org/open-easyrtc/open-easyrtc.svg?branch=master)](https://travis-ci.org/open-easyrtc/open-easyrtc)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -51,16 +49,13 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
-
+By doing a Real Time Communication (RTC) web application we save local memory over native applications and avoid installing add-ons but still getting quality of service. 
+**as long as the device runs a web browser you would be able to access right the way.**
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [](Node .js modules)
+* [](easyRTC open source toolkit)
 
 
 
@@ -71,10 +66,10 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+* Install [https://nodejs.org/en/]
 * npm
 ```sh
-npm install npm@latest -g
+npm install
 ```
 
 ### Installation
@@ -182,4 +177,4 @@ Project Link: [https://github.com/github_username/repo](https://github.com/githu
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/carlos-flores-valero-44b912113/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/demopic.png
