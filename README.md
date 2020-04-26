@@ -54,9 +54,6 @@ npm install
 ```
 3. Inside `webRTC\node_modules\`
 ```sh
-npm init
-```
-```sh
 npm install
 ```
 4. Back at `\webRTC\`
@@ -122,7 +119,7 @@ Project Link: [https://github.com/CarlosFlo123/WebAppRTC.git](https://github.com
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [npmversion-shield]: https://img.shields.io/npm/v/open-easyrtc.svg?style=flat
 [npmversion-url]: https://www.npmjs.com/package/open-easyrtc
-[build-shield]: https://img.shields.io/npm/v/open-easyrtc.svg?style=flat
+[build-shield]: https://travis-ci.org/open-easyrtc/open-easyrtc.svg?branch=master
 [build-url]: https://travis-ci.org/open-easyrtc/open-easyrtc
 [linkedin-shield]: https://travis-ci.org/open-easyrtc/open-easyrtc.svg?branch=master
 [linkedin-url]: https://www.linkedin.com/in/carlos-flores-valero-44b912113/
