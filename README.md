@@ -27,7 +27,7 @@ By doing a Real Time Communication (RTC) web application we save local memory ov
 
 ### Built With
 
-* Node .js modules made by `Priologic Software Inc.` and reachable at: 
+* Node .js modules made by ` EasyRTC ` and reachable at: [Documentation](http://easyrtc.com/docs/)_
 
 
 <!-- GETTING STARTED -->
@@ -121,6 +121,6 @@ Project Link: [https://github.com/CarlosFlo123/WebAppRTC.git](https://github.com
 [npmversion-url]: https://www.npmjs.com/package/open-easyrtc
 [build-shield]: https://travis-ci.org/open-easyrtc/open-easyrtc.svg?branch=master
 [build-url]: https://travis-ci.org/open-easyrtc/open-easyrtc
-[linkedin-shield]: https://travis-ci.org/open-easyrtc/open-easyrtc.svg?branch=master
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/carlos-flores-valero-44b912113/
 [product-screenshot]: images/demopic.png
