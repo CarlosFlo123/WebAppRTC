@@ -16,7 +16,7 @@ httpApp.use(express.static(__dirname + "/static"));
 var socketServer = io.listen(webServer, { "log level": 1 });
 
 var port = process.env.PORT || 8080;
-// Start Express http server on port 8080 
+// Start Express http server on port 8080
 var webServer = http.createServer(httpApp).listen(port); 
 easyrtc.setOption("logLevel", "debug");
 
